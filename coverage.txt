@@ -1,0 +1,16 @@
+(venv) C:\Users\s.b.dhanapalan\PycharmProject\calculator\calculator_tanh>coverage run tanh_testcase.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK
+
+(venv) C:\Users\s.b.dhanapalan\PycharmProject\calculator\calculator_tanh>coverage report
+Name                  Stmts   Miss  Cover
+-----------------------------------------
+tanh_calculation.py       7      0   100%
+tanh_testcase.py         13      0   100%
+-----------------------------------------
+TOTAL                    20      0   100%
+
+
