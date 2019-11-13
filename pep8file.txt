@@ -1,0 +1,12 @@
+(venv) C:\Users\s.b.dhanapalan\PycharmProject\calculator\calculator_tanh>pylint tanh_calculation.py
+No config file found, using default configuration
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.57/10, +1.43)
+
+
+(venv) C:\Users\s.b.dhanapalan\PycharmProject\calculator\calculator_tanh>pylint tanh_testcase.py
+No config file found, using default configuration
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.23/10, +0.77)
